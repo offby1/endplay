@@ -1,4 +1,4 @@
-endplay v0.5.9 documentation
+endplay v0.5.12 documentation
 =====================
 
 These are the documentation pages for the Python package endplay. Most of 
