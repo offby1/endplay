@@ -52,6 +52,11 @@ black = "^24.2.0"
 isort = "^5.13.2"
 mypy = "^1.8.0"
 coverage = "^7.4.3"
+sphinx = "<8.0"
+sphinxcontrib-apidoc = "^0.6.0"
+myst-parser = "3.0.1"
+autodocsumm = "^0.2.14"
+sphinx-rtd-theme = "^3.0.2"
 
 [tool.poetry.scripts]
 endplay-interact = "endplay.interact.__main__:main"
