@@ -1,0 +1,5 @@
+git clean -dxff
+poetry env use 3.9
+poetry install
+cd docs
+poetry run make html
